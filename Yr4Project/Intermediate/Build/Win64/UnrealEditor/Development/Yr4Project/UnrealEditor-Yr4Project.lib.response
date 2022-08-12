@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Yr4Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\Yr4ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\MyPawn.cpp.obj"
+"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\Yr4Project.cpp.obj"
+"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\MyPawn.gen.cpp.obj"
+"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\Yr4Project.init.gen.cpp.obj"
+"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\Default.rc2.res"
+/OUT:"C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\UnrealEditor-Yr4Project.lib"

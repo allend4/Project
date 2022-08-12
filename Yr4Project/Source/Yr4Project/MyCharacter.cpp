@@ -29,6 +29,24 @@ void AMyCharacter::Tick(float DeltaTime)
 void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+	// axis
+	PlayerInputComponent->BindAxis(TEXT("MoveForward"), this, &AMyCharacter::MoveForward);
+	PlayerInputComponent->BindAxis(TEXT("LookUp"), this, &APawn::AddControllerPitchInput); // pitch
+	PlayerInputComponent->BindAxis(TEXT("MoveLeft"), this, &AMyCharacter::MoveLeft);
+	PlayerInputComponent->BindAxis(TEXT("LookLeft"), this, &APawn::AddControllerYawInput); // yaw
+	// action
+	PlayerInputComponent->BindAction(TEXT("Jump"), EInputEvent::IE_Pressed, this, &ACharacter::Jump);
+}
 
+// Move forwards + backwards
+void AMyCharacter::MoveForward(float AxisValue)
+{
+	AddMovementInput(GetActorForwardVector() * AxisValue);
+}
+
+// Move left + right
+void AMyCharacter::MoveLeft(float AxisValue)
+{
+	AddMovementInput(GetActorRightVector() * AxisValue);
 }
 

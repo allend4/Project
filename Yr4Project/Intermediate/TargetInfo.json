@@ -1,4 +1,14 @@
 {
 	"Targets": [
+		{
+			"Name": "Yr4Project",
+			"Path": "C:\\Users\\DTAll\\Desktop\\Summer Project\\Project\\Yr4Project\\Source\\Yr4Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Yr4ProjectEditor",
+			"Path": "C:\\Users\\DTAll\\Desktop\\Summer Project\\Project\\Yr4Project\\Source\\Yr4ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
 	]
 }

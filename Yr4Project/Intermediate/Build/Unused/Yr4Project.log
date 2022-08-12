@@ -1,0 +1,19 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\DTAll\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\DTAll\Desktop\Summer Project\Project).
+  Building Yr4ProjectEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Yr4Project unity file: MyCharacter.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+  Building 6 actions with 6 processes...
+  [1/6] Compile MyCharacter.gen.cpp
+  [2/6] Compile MyCharacter.cpp
+  [3/6] Compile Yr4Project.init.gen.cpp
+  [4/6] Link UnrealEditor-Yr4Project.lib
+     Creating library C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\UnrealEditor-Yr4Project.lib and object C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\UnrealEditor-Yr4Project.exp
+  [5/6] Link UnrealEditor-Yr4Project.dll
+     Creating library C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\UnrealEditor-Yr4Project.suppressed.lib and object C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\UnrealEditor\Development\Yr4Project\UnrealEditor-Yr4Project.suppressed.exp
+  [6/6] WriteMetadata Yr4ProjectEditor.target
+  Total time in Parallel executor: 9.06 seconds
+  Total execution time: 38.92 seconds

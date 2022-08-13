@@ -4,11 +4,26 @@
 #include "MyAIController.h"
 #include "Kismet/GameplayStatics.h"
 
+
 void AMyAIController::BeginPlay()
 {
 	Super::BeginPlay();
+}
 
-	APawn* PlayerPawn =  UGameplayStatics::GetPlayerPawn(GetWorld(), 0);
+void AMyAIController::Tick(float DeltaSeconds)
+{
+	Super::Tick(DeltaSeconds);
 
-	SetFocus(PlayerPawn);
+	APawn* PlayerPawn = UGameplayStatics::GetPlayerPawn(GetWorld(), 0);
+	
+	if (LineOfSightTo(PlayerPawn))
+	{
+		SetFocus(PlayerPawn);
+		MoveToActor(PlayerPawn, AcceptanceRadius);
+	}
+	else
+	{
+		ClearFocus(EAIFocusPriority::Gameplay);
+		StopMovement();
+	}
 }

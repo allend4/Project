@@ -957,3 +957,251 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.13-16.28.04:402][564]LogSavePackage: Moving 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Saved/ForestSandboxBE12248744077AE90205FC8B54CC23CD.tmp' to 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Content/ForestSandbox.umap'
 [2022.08.13-16.28.04:427][564]AssetCheck: New page: Asset Save: ForestSandbox
 [2022.08.13-16.28.04:427][564]LogContentValidation: Display: Validating World /Game/ForestSandbox.ForestSandbox
+[2022.08.13-17.15.06:735][799]LogDerivedDataCache: C:/Users/DTAll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.384 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.13-17.22.03:609][231]LogViewport: Scene viewport resized to 1564x1262, mode Windowed.
+[2022.08.13-17.22.27:872][197]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.08.13-17.22.27:872][197]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.08.13-17.22.27:888][197]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ForestSandbox.ForestSandbox:PersistentLevel.NavMeshBoundsVolume_0
+[2022.08.13-17.22.27:940][197]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ForestSandbox.ForestSandbox:PersistentLevel.NavMeshBoundsVolume_0
+[2022.08.13-17.22.28:065][198]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.22.29:018][275]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.08.13-17.22.29:018][275]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.08.13-17.22.29:019][275]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ForestSandbox.ForestSandbox:PersistentLevel.NavMeshBoundsVolume_1
+[2022.08.13-17.22.29:020][275]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ForestSandbox.ForestSandbox:PersistentLevel.NavMeshBoundsVolume_1
+[2022.08.13-17.22.29:074][276]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.22.33:186][619]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.23.54:157][377]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.23.56:932][610]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.24.05:916][358]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.24.14:345][ 51]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.24.32:227][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MyAIController.BP_MyAIController
+[2022.08.13-17.24.32:228][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.24.32:702][944]LogViewport: Scene viewport resized to 988x747, mode Windowed.
+[2022.08.13-17.24.35:050][ 94]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.08.13-17.24.54:197][654]LogViewport: Scene viewport resized to 1523x1237, mode Windowed.
+[2022.08.13-17.24.54:273][656]LogViewport: Scene viewport resized to 1518x1237, mode Windowed.
+[2022.08.13-17.24.54:365][658]LogViewport: Scene viewport resized to 1490x1237, mode Windowed.
+[2022.08.13-17.24.54:483][663]LogViewport: Scene viewport resized to 1477x1237, mode Windowed.
+[2022.08.13-17.24.54:546][665]LogViewport: Scene viewport resized to 1455x1237, mode Windowed.
+[2022.08.13-17.24.54:608][667]LogViewport: Scene viewport resized to 1454x1237, mode Windowed.
+[2022.08.13-17.24.54:934][685]LogViewport: Scene viewport resized to 1456x1237, mode Windowed.
+[2022.08.13-17.24.55:176][699]LogViewport: Scene viewport resized to 1459x1237, mode Windowed.
+[2022.08.13-17.25.31:819][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.13-17.25.31:820][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ForestSandbox" FILE="C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Saved/Autosaves/Game/ForestSandbox_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.08.13-17.25.31:895][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ForestSandbox_Auto2
+[2022.08.13-17.25.31:896][ 68]LogSavePackage: Moving 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Saved/ForestSandbox_Auto2573EBE4D403D35B100DFCB8966A4F226.tmp' to 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Saved/Autosaves/Game/ForestSandbox_Auto2.umap'
+[2022.08.13-17.25.31:901][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ForestSandbox' took 0.123
+[2022.08.13-17.25.31:901][ 68]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2022.08.13-17.27.01:627][742]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.13-17.27.06:363][756]LogLiveCoding: Display:    Creating library C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_2.lib and object C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_2.exp
+[2022.08.13-17.27.06:662][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.13-17.27.07:031][757]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2022.08.13-17.27.07:031][757]LogLiveCoding: Display: Live coding succeeded
+[2022.08.13-17.27.15:513][935]LogSlate: Window 'BP_MyAIController' being destroyed
+[2022.08.13-17.27.15:531][935]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.27.15:531][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.32.59:050][702]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.13-17.33.12:116][741]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.08.13-17.33.12:116][741]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.08.13-17.36.02:923][251]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.13-17.36.08:968][269]LogLiveCoding: Display:    Creating library C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_3.lib and object C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_3.exp
+[2022.08.13-17.36.09:397][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.08.13-17.36.09:780][270]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2022.08.13-17.36.09:780][270]LogLiveCoding: Display: Live coding succeeded
+[2022.08.13-17.37.39:954][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.13-17.37.39:962][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.13-17.37.39:962][658]PIE: New page: PIE session: ForestSandbox (Aug 13, 2022, 7:37:39 PM)
+[2022.08.13-17.37.39:963][658]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ForestSandbox
+[2022.08.13-17.37.39:982][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019503s)
+[2022.08.13-17.37.39:982][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ForestSandbox.ForestSandbox to /Game/UEDPIE_0_ForestSandbox.ForestSandbox (0.019586s)
+[2022.08.13-17.37.39:982][658]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.37.39:982][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.37.39:983][658]LogAIModule: Creating AISystem for world ForestSandbox
+[2022.08.13-17.37.39:983][658]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2022.08.13-17.37.40:097][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.08.13-17.37.40:099][658]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.13-17.37.40:099][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.13-17.37.40:099][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.13-17.37.40:100][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.13-17.37.40:100][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.13-17.37.40:100][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.13-17.37.40:102][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.13-17.37.40:126][658]LogAudioMixer: Display: Using Audio Hardware Device Speakers (CONEXANT USB AUDIO)
+[2022.08.13-17.37.40:126][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.13-17.37.40:126][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.13-17.37.40:126][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.13-17.37.40:127][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.08.13-17.37.40:127][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.08.13-17.37.40:129][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.08.13-17.37.40:129][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.08.13-17.37.40:129][658]LogInit: FAudioDevice initialized.
+[2022.08.13-17.37.40:129][658]LogAudio: Display: Audio Device (ID: 4) registered with world 'ForestSandbox'.
+[2022.08.13-17.37.40:149][658]LogLoad: Game class is 'BP_GameMode_C'
+[2022.08.13-17.37.40:152][658]LogWorld: Bringing World /Game/UEDPIE_0_ForestSandbox.ForestSandbox up for play (max tick rate 0) at 2022.08.13-18.37.40
+[2022.08.13-17.37.40:152][658]LogWorld: Bringing up level for play took: 0.003514
+[2022.08.13-17.37.40:154][658]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.08.13-17.37.40:157][658]PIE: Server logged in
+[2022.08.13-17.37.40:158][658]PIE: Play in editor total start time 0.196 seconds.
+[2022.08.13-17.38.10:009][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.38.10:009][ 62]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ForestSandbox
+[2022.08.13-17.38.10:009][ 62]LogWorld: UWorld::CleanupWorld for ForestSandbox, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.38.10:010][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.38.10:027][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.13-17.38.10:033][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.38.10:065][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.38.10:074][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.13-17.38.10:075][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.13-17.38.10:106][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.13-17.38.10:154][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.08.13-17.38.17:157][608]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.38.18:895][743]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.38.22:629][ 36]LogNavigationDataBuild: Navigation data generation finished in /Game/ForestSandbox.
+[2022.08.13-17.38.30:286][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ForestSandbox" FILE="C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Content/ForestSandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.38.30:319][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.13-17.38.30:403][636]LogSavePackage: Moving output files for package: /Game/ForestSandbox
+[2022.08.13-17.38.30:404][636]LogSavePackage: Moving 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Saved/ForestSandbox2E2C1E50462FA0A93FEA47BD579FDA78.tmp' to 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Content/ForestSandbox.umap'
+[2022.08.13-17.38.30:428][636]AssetCheck: New page: Asset Save: ForestSandbox
+[2022.08.13-17.38.30:428][636]LogContentValidation: Display: Validating World /Game/ForestSandbox.ForestSandbox
+[2022.08.13-17.45.08:197][903]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.13-17.45.11:897][914]LogLiveCoding: Display:    Creating library C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_4.lib and object C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_4.exp
+[2022.08.13-17.45.12:245][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.08.13-17.45.12:624][915]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2022.08.13-17.45.12:624][915]LogLiveCoding: Display: Live coding succeeded
+[2022.08.13-17.45.25:028][ 72]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.08.13-17.45.29:688][408]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.13-17.45.29:695][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.13-17.45.29:695][408]PIE: New page: PIE session: ForestSandbox (Aug 13, 2022, 7:45:29 PM)
+[2022.08.13-17.45.29:696][408]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ForestSandbox
+[2022.08.13-17.45.29:710][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014708s)
+[2022.08.13-17.45.29:710][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ForestSandbox.ForestSandbox to /Game/UEDPIE_0_ForestSandbox.ForestSandbox (0.014789s)
+[2022.08.13-17.45.29:710][408]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.45.29:711][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.45.29:711][408]LogAIModule: Creating AISystem for world ForestSandbox
+[2022.08.13-17.45.29:711][408]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2022.08.13-17.45.29:795][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.08.13-17.45.29:797][408]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.13-17.45.29:797][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.13-17.45.29:797][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.13-17.45.29:797][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.13-17.45.29:797][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.13-17.45.29:797][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.13-17.45.29:799][408]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.13-17.45.29:823][408]LogAudioMixer: Display: Using Audio Hardware Device Speakers (CONEXANT USB AUDIO)
+[2022.08.13-17.45.29:823][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.13-17.45.29:823][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.13-17.45.29:823][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.13-17.45.29:824][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.13-17.45.29:824][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.13-17.45.29:825][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.13-17.45.29:825][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.13-17.45.29:825][408]LogInit: FAudioDevice initialized.
+[2022.08.13-17.45.29:825][408]LogAudio: Display: Audio Device (ID: 5) registered with world 'ForestSandbox'.
+[2022.08.13-17.45.29:839][408]LogLoad: Game class is 'BP_GameMode_C'
+[2022.08.13-17.45.29:842][408]LogWorld: Bringing World /Game/UEDPIE_0_ForestSandbox.ForestSandbox up for play (max tick rate 0) at 2022.08.13-18.45.29
+[2022.08.13-17.45.29:843][408]LogWorld: Bringing up level for play took: 0.003323
+[2022.08.13-17.45.29:844][408]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.08.13-17.45.29:847][408]PIE: Server logged in
+[2022.08.13-17.45.29:847][408]PIE: Play in editor total start time 0.152 seconds.
+[2022.08.13-17.45.56:190][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.45.56:190][444]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ForestSandbox
+[2022.08.13-17.45.56:190][444]LogWorld: UWorld::CleanupWorld for ForestSandbox, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.45.56:191][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.45.56:199][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.13-17.45.56:206][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.45.56:238][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.45.56:238][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.13-17.45.56:240][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.13-17.45.56:248][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.13-17.45.56:294][445]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.08.13-17.48.00:538][918]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.13-17.48.06:578][936]LogLiveCoding: Display:    Creating library C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_5.lib and object C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Binaries\Win64\UnrealEditor-Yr4Project.patch_5.exp
+[2022.08.13-17.48.06:686][936]LogClass: /Script/Yr4Project Reload.
+[2022.08.13-17.48.06:687][936]LogClass: MyAIController Reload.
+[2022.08.13-17.48.06:687][936]LogClass: Could not find existing class MyAIController in package /Script/Yr4Project for reload, assuming new or modified class
+[2022.08.13-17.48.06:701][936]Re-instancing MyAIController after reload.
+[2022.08.13-17.48.06:812][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.13-17.48.07:267][937]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2022.08.13-17.48.07:268][937]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.13-17.48.40:641][ 99]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.13-17.48.40:649][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.13-17.48.40:649][ 99]PIE: New page: PIE session: ForestSandbox (Aug 13, 2022, 7:48:40 PM)
+[2022.08.13-17.48.40:669][ 99]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ForestSandbox
+[2022.08.13-17.48.40:683][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013526s)
+[2022.08.13-17.48.40:683][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ForestSandbox.ForestSandbox to /Game/UEDPIE_0_ForestSandbox.ForestSandbox (0.013654s)
+[2022.08.13-17.48.40:683][ 99]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.13-17.48.40:683][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.13-17.48.40:683][ 99]LogAIModule: Creating AISystem for world ForestSandbox
+[2022.08.13-17.48.40:684][ 99]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2022.08.13-17.48.40:766][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.13-17.48.40:768][ 99]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.13-17.48.40:768][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.13-17.48.40:768][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.13-17.48.40:769][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.13-17.48.40:769][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.13-17.48.40:769][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.13-17.48.40:769][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.13-17.48.40:769][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.13-17.48.40:769][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.13-17.48.40:769][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.13-17.48.40:769][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.13-17.48.40:769][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.13-17.48.40:772][ 99]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.13-17.48.40:795][ 99]LogAudioMixer: Display: Using Audio Hardware Device Speakers (CONEXANT USB AUDIO)
+[2022.08.13-17.48.40:795][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.13-17.48.40:795][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.13-17.48.40:795][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.13-17.48.40:796][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.08.13-17.48.40:796][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.08.13-17.48.40:797][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.08.13-17.48.40:797][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.08.13-17.48.40:797][ 99]LogInit: FAudioDevice initialized.
+[2022.08.13-17.48.40:797][ 99]LogAudio: Display: Audio Device (ID: 6) registered with world 'ForestSandbox'.
+[2022.08.13-17.48.40:811][ 99]LogLoad: Game class is 'BP_GameMode_C'
+[2022.08.13-17.48.40:814][ 99]LogWorld: Bringing World /Game/UEDPIE_0_ForestSandbox.ForestSandbox up for play (max tick rate 0) at 2022.08.13-18.48.40
+[2022.08.13-17.48.40:814][ 99]LogWorld: Bringing up level for play took: 0.003377
+[2022.08.13-17.48.40:816][ 99]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.08.13-17.48.40:818][ 99]PIE: Server logged in
+[2022.08.13-17.48.40:819][ 99]PIE: Play in editor total start time 0.17 seconds.
+[2022.08.13-17.48.47:844][643]LogTemp: Warning: Health left 90.000000
+[2022.08.13-17.48.48:404][686]LogTemp: Warning: Health left 80.000000
+[2022.08.13-17.48.48:944][728]LogTemp: Warning: Health left 70.000000
+[2022.08.13-17.48.49:348][759]LogTemp: Warning: Health left 60.000000
+[2022.08.13-17.48.49:814][794]LogTemp: Warning: Health left 50.000000
+[2022.08.13-17.48.50:200][823]LogTemp: Warning: Health left 40.000000
+[2022.08.13-17.48.54:456][136]LogTemp: Warning: Health left 30.000000
+[2022.08.13-17.48.54:702][155]LogTemp: Warning: Health left 20.000000
+[2022.08.13-17.48.54:923][172]LogTemp: Warning: Health left 10.000000
+[2022.08.13-17.48.55:092][185]LogTemp: Warning: Health left 0.000000
+[2022.08.13-17.48.55:274][199]LogTemp: Warning: Health left 0.000000
+[2022.08.13-17.48.55:456][213]LogTemp: Warning: Health left 0.000000
+[2022.08.13-17.49.12:689][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.49.12:689][530]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ForestSandbox
+[2022.08.13-17.49.12:690][530]LogWorld: UWorld::CleanupWorld for ForestSandbox, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-17.49.12:690][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.49.12:703][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.13-17.49.12:708][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-17.49.12:740][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.13-17.49.12:744][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.13-17.49.12:745][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.13-17.49.12:749][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-17.49.12:788][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.13-17.49.12:830][531]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.08.13-17.49.14:591][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ForestSandbox" FILE="C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Content/ForestSandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.13-17.49.14:623][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.08.13-17.49.14:705][657]LogSavePackage: Moving output files for package: /Game/ForestSandbox
+[2022.08.13-17.49.14:705][657]LogSavePackage: Moving 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Saved/ForestSandboxD6E236824A50ED240EA6AEB761A0397A.tmp' to 'C:/Users/DTAll/Desktop/Summer Project/Project/Yr4Project/Content/ForestSandbox.umap'
+[2022.08.13-17.49.14:730][657]AssetCheck: New page: Asset Save: ForestSandbox
+[2022.08.13-17.49.14:730][657]LogContentValidation: Display: Validating World /Game/ForestSandbox.ForestSandbox
+[2022.08.13-18.15.06:504][429]LogDerivedDataCache: C:/Users/DTAll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.360 and deleted 0 file(s) with total size 0 MiB.

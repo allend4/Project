@@ -24,6 +24,9 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Config\HoloLens">
       <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
     </Filter>
@@ -33,6 +36,18 @@
     <Filter Include="Source\Yr4Project">
       <UniqueIdentifier>{CB37E839-9D96-3493-9E87-CB08E94677DB}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Yr4Project\MyCharacter.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyCharacter.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Yr4Project\MyGun.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyGun.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Yr4Project\MyPawn.cpp">
       <Filter>Source\Yr4Project</Filter>
     </ClCompile>

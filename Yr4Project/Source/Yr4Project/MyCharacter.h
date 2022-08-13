@@ -6,6 +6,8 @@
 #include "GameFramework/Character.h"
 #include "MyCharacter.generated.h"
 
+class AMyGun;
+
 UCLASS()
 class YR4PROJECT_API AMyCharacter : public ACharacter
 {
@@ -30,4 +32,11 @@ private:
 	void MoveForward(float AxisValue);
 	void MoveLeft(float AxisValue);
 
+	UPROPERTY(EditDefaultsOnly)
+		TSubclassOf<AMyGun> MyGunClass;
+
+	UPROPERTY()
+		AMyGun* MyGun;
+
+	void Shoot();
 };

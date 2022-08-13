@@ -1,9 +1,0 @@
-﻿  Using bundled DotNet SDK
-  Log file: C:\Users\DTAll\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\DTAll\Desktop\Summer Project\Project).
-  Invalidating makefile for Yr4ProjectEditor (working set of source files changed)
-  Parsing headers for Yr4ProjectEditor
-    Running UnrealHeaderTool "C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Yr4Project.uproject" "C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Intermediate\Build\Win64\Yr4ProjectEditor\Development\Yr4ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\DTAll\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for Yr4ProjectEditor in 1.3160019 seconds
-UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command "D:\UE_5.0\Engine\Build\BatchFiles\Build.bat Yr4ProjectEditor Win64 Development -Project="C:\Users\DTAll\Desktop\Summer Project\Project\Yr4Project\Yr4Project.uproject" -WaitMutex -FromMsBuild" exited with code 6.

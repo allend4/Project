@@ -36,6 +36,12 @@
     <Filter Include="Source\Yr4Project">
       <UniqueIdentifier>{CB37E839-9D96-3493-9E87-CB08E94677DB}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Yr4Project\MyAIController.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyAIController.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Yr4Project\MyCharacter.cpp">
       <Filter>Source\Yr4Project</Filter>
     </ClCompile>

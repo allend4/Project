@@ -22,7 +22,7 @@ protected:
 	virtual void BeginPlay() override;
 
 public:	
-	UFUNCTION(BluePrintPure)
+	UFUNCTION(BlueprintPure)
 		bool IsDead() const;
 
 	// Called every frame

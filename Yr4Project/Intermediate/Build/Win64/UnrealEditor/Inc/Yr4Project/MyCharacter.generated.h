@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define YR4PROJECT_MyCharacter_generated_h
 
 #define FID_Yr4Project_Source_Yr4Project_MyCharacter_h_14_SPARSE_DATA
-#define FID_Yr4Project_Source_Yr4Project_MyCharacter_h_14_RPC_WRAPPERS
-#define FID_Yr4Project_Source_Yr4Project_MyCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Yr4Project_Source_Yr4Project_MyCharacter_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execIsDead);
+
+
+#define FID_Yr4Project_Source_Yr4Project_MyCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execIsDead);
+
+
 #define FID_Yr4Project_Source_Yr4Project_MyCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyCharacter(); \

@@ -17,6 +17,8 @@ void AMyCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 
+	Health = MaxHealth;
+
 	MyGun = GetWorld()->SpawnActor<AMyGun>(MyGunClass);
 	GetMesh()->HideBoneByName(TEXT("weapon_r"), EPhysBodyOp::PBO_None); // hides gun from skeletal mesh
 	// Attach new weapons to child socket of original weapon mesh 
@@ -59,5 +61,20 @@ void AMyCharacter::MoveLeft(float AxisValue)
 void AMyCharacter::Shoot()
 {
 	MyGun->PullTrigger();
+}
+
+float AMyCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser)
+{
+	float DamageApplied = Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
+	DamageApplied = FMath::Min(Health, DamageApplied);
+	Health -= DamageApplied;
+	UE_LOG(LogTemp, Warning, TEXT("Health left %f"), Health); // Test health is reduced
+
+	return DamageApplied;
+}
+
+bool AMyCharacter::IsDead() const
+{
+	return Health <= 0;
 }
 

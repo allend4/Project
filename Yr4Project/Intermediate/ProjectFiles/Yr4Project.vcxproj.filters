@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Yr4Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Yr4Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Yr4ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Yr4Project">
+      <UniqueIdentifier>{CB37E839-9D96-3493-9E87-CB08E94677DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Yr4Project\MyAIController.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyAIController.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Yr4Project\MyBTTask_ClearBlackboardValue.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyBTTask_ClearBlackboardValue.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Yr4Project\MyBTTask_Shoot.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyBTTask_Shoot.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Yr4Project\MyCharacter.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyCharacter.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Yr4Project\MyGun.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyGun.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Yr4Project\MyPawn.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\MyPawn.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Yr4Project\Yr4Project.Build.cs">
+      <Filter>Source\Yr4Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Yr4Project\Yr4Project.cpp">
+      <Filter>Source\Yr4Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Yr4Project\Yr4Project.h">
+      <Filter>Source\Yr4Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -4,6 +4,7 @@
 #include "MyCharacter.h"
 #include "MyGun.h"
 #include "Components/CapsuleComponent.h"
+#include "MyGameModeBase.h"
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -73,6 +74,12 @@ float AMyCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& Da
 
 	if (IsDead())
 	{
+		AMyGameModeBase* GameMode = GetWorld()->GetAuthGameMode<AMyGameModeBase>();
+		if (GameMode != nullptr)
+		{
+			GameMode->PawnKilled(this);
+		}
+
 		DetachFromControllerPendingDestroy();
 		GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
 	}

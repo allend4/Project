@@ -15,7 +15,17 @@
             "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
             "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\inc\\yr4project\\mycharacter.generated.h",
             "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\source\\yr4project\\mygun.h",
-            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\inc\\yr4project\\mygun.generated.h"
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\inc\\yr4project\\mygun.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h",
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\source\\yr4project\\mygamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\inc\\yr4project\\mygamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

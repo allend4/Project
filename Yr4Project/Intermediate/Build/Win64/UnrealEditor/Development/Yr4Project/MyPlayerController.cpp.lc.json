@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\source\\yr4project\\myplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\yr4projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\development\\yr4project\\definitions.yr4project.h",
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\source\\yr4project\\myplayercontroller.h",
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\inc\\yr4project\\myplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

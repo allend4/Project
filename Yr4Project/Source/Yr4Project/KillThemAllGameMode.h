@@ -17,4 +17,6 @@ class YR4PROJECT_API AKillThemAllGameMode : public AMyGameModeBase
 public:
 	virtual void PawnKilled(APawn* PawnKilled) override;
 
+private:
+	void EndGame(bool bIsPlayerWinner);
 };

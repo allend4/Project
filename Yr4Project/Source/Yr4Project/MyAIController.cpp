@@ -4,6 +4,7 @@
 #include "MyAIController.h"
 #include "Kismet/GameplayStatics.h"
 #include "BehaviorTree/BlackboardComponent.h"
+#include "MyCharacter.h"
 
 
 void AMyAIController::BeginPlay()
@@ -23,4 +24,15 @@ void AMyAIController::BeginPlay()
 void AMyAIController::Tick(float DeltaSeconds)
 {
 	Super::Tick(DeltaSeconds);
+}
+
+bool AMyAIController::IsDead() const
+{
+	AMyCharacter* ControlledCharacter = Cast<AMyCharacter>(GetPawn());
+	if (ControlledCharacter != nullptr)
+	{
+		return ControlledCharacter->IsDead();
+	}
+
+	return true;
 }

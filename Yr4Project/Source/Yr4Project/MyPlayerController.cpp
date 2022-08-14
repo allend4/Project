@@ -9,10 +9,21 @@ void AMyPlayerController::GameHasEnded(class AActor *EndGameFocus, bool bIsWinne
 {
 	Super::GameHasEnded(EndGameFocus, bIsWinner);
 
-	UUserWidget* LoseScreen = CreateWidget(this, LoseScreenClass);
-	if (LoseScreen != nullptr)
+	if (bIsWinner)
 	{
-		LoseScreen->AddToViewport();
+		UUserWidget* WinScreen = CreateWidget(this, WinScreenClass);
+		if (WinScreen != nullptr)
+		{
+			WinScreen->AddToViewport();
+		}
+	}
+	else
+	{
+		UUserWidget* LoseScreen = CreateWidget(this, LoseScreenClass);
+		if (LoseScreen != nullptr)
+		{
+			LoseScreen->AddToViewport();
+		}
 	}
 
 	//UE_LOG(LogTemp, Warning, TEXT("Game has finished")); test - game finishes when player is dead

@@ -3,6 +3,7 @@
 
 #include "MyCharacter.h"
 #include "MyGun.h"
+#include "Components/CapsuleComponent.h"
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -69,6 +70,12 @@ float AMyCharacter::TakeDamage(float DamageAmount, struct FDamageEvent const& Da
 	DamageApplied = FMath::Min(Health, DamageApplied);
 	Health -= DamageApplied;
 	UE_LOG(LogTemp, Warning, TEXT("Health left %f"), Health); // Test health is reduced
+
+	if (IsDead())
+	{
+		DetachFromControllerPendingDestroy();
+		GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	}
 
 	return DamageApplied;
 }

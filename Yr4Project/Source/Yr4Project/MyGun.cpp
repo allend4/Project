@@ -40,7 +40,11 @@ void AMyGun::PullTrigger()
 	//DrawDebugPoint(GetWorld(), Location, 20, FColor::Red, true);
 
 	FHitResult Hit;
-	bool bSuccess = GetWorld()->LineTraceSingleByChannel(Hit, Location, End, ECollisionChannel::ECC_GameTraceChannel1);
+	FCollisionQueryParams Params;
+	Params.AddIgnoredActor(this); // ignore gun
+	Params.AddIgnoredActor(GetOwner()); // ignore gun owner
+
+	bool bSuccess = GetWorld()->LineTraceSingleByChannel(Hit, Location, End, ECollisionChannel::ECC_GameTraceChannel1, Params);
 	if (bSuccess)
 	{
 		FVector ShotDirection = -Rotation.Vector();

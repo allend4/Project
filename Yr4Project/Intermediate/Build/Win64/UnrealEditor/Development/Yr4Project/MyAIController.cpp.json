@@ -67,7 +67,15 @@
             "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\aisystem.generated.h",
             "d:\\ue_5.0\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\blackboarddata.h",
             "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\blackboarddata.generated.h",
-            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\blackboardcomponent.generated.h"
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\blackboardcomponent.generated.h",
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\source\\yr4project\\mycharacter.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\dtall\\desktop\\summer project\\project\\yr4project\\intermediate\\build\\win64\\unrealeditor\\inc\\yr4project\\mycharacter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

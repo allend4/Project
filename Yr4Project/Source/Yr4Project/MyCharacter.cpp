@@ -92,3 +92,8 @@ bool AMyCharacter::IsDead() const
 	return Health <= 0;
 }
 
+float AMyCharacter::GetHealthPercent() const
+{
+	return  Health / MaxHealth;
+}
+

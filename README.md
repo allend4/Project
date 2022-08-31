@@ -1,6 +1,6 @@
 Yr4 Project and disseration
 
-Built using the unbreal Engine 5.0
+Built using the unreal Engine 5.0
 Coded in C++
 
 For the project to run.
@@ -10,3 +10,6 @@ Open the Project Yr4Project.
 There you will find Yr4Project.uproject.
 Run Yr4Project.uproject and it waill automatially build and deploy to Unreal engine.
 play and enjoy.
+
+Warning - late upload due to demonstartion video being too large and breaking my github.
+Have to reclone entire project and upload last documents.
